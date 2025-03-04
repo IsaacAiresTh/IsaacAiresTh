@@ -18,7 +18,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Isaac-code-maker">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Isaac-code-maker&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-code-maker&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
+    <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-code-maker&theme=vue-dark&hide_border=true)"/>
   </a>
 </div>
     
