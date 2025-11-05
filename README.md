@@ -26,109 +26,95 @@
 
 > whoami
 isaac_aires
-
-> cat /etc/profile
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="25" height="25"/> PROFILE.SYS
+---
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+UNICEPLAC;Developer+%7C+Security+Enthusiast;Building+Innovative+%26+Secure+Solutions;Always+Learning+Something+New!)
-
-</div>
+## 👤 ABOUT ME
 
 ```diff
-════════════════════════════════════════════════════════════════════════════
-+ USER: Isaac Aires
-+ ROLE: Software Engineering Student @ UNICEPLAC
-+ LOCATION: /dev/cybersec/innovation
-+ STATUS: [■■■■■■■■■□] 90% - Always learning something new
-+ CLEARANCE_LEVEL: Developer | Security Enthusiast
-+ MATRIX_ACCESS: GRANTED ✓
-════════════════════════════════════════════════════════════════════════════
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          SYSTEM INFORMATION                                ║
+╠════════════════════════════════════════════════════════════════════════════╣
++ ║  NAME:           Isaac Aires                                             ║
++ ║  ROLE:           Software Engineering Student                            ║
++ ║  INSTITUTION:    UNICEPLAC                                               ║
++ ║  FOCUS:          Software Development & Cybersecurity                    ║
++ ║  STATUS:         Always Learning Something New                           ║
++ ║  LEVEL:          Developer | Security Enthusiast                         ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-**"Follow the white rabbit... 🐰"**  
-*Passionate about building innovative and secure solutions*  
-*Exploring the depths of software development and cybersecurity*
+**"Follow the white rabbit... 🐰"**
 
-![](https://komarev.com/ghpvc/?username=IsaacAiresTh&color=00ff00&style=flat-square&label=VISITORS)
+*Passionate about building innovative and secure solutions. My main areas of interest are software development and cybersecurity, and I'm always looking for new challenges to improve my skills.*
+
+![Visitors](https://komarev.com/ghpvc/?username=IsaacAiresTh&color=00ff00&style=flat-square&label=PROFILE+VISITORS)
 
 </div>
 
 ---
 
-```
-> ls -la /skills/technologies
-```
+## 💻 TECH STACK
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> INSTALLED PACKAGES
-
+### **Languages**
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+Node.js;TypeScript+%7C+PHP+%7C+C%23+%7C+HTML%2FCSS;Git+%7C+Docker+%7C+Linux+%7C+Arch+Linux;Cybersecurity+Toolkit+%7C+Always+Expanding...)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00ff00&labelColor=000000&color=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00ff00&labelColor=000000&color=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=00ff00&labelColor=000000&color=000000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00ff00&labelColor=000000&color=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=00ff00&labelColor=000000&color=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=00ff00&labelColor=000000&color=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=00ff00&labelColor=000000&color=000000)
+
+</div>
+
+### **Frameworks & Libraries**
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=00ff00&labelColor=000000&color=000000)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=00ff00&labelColor=000000&color=000000)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=00ff00&labelColor=000000&color=000000)
+
+</div>
+
+### **Tools & Technologies**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00ff00&labelColor=000000&color=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00ff00&labelColor=000000&color=000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00ff00&labelColor=000000&color=000000)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=00ff00&labelColor=000000&color=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=00ff00&labelColor=000000&color=000000)
+
+</div>
+
+### **Focus Areas**
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00ff00?style=for-the-badge&logo=hackaday&logoColor=000000&labelColor=000000&color=00ff00)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-00ff00?style=for-the-badge&logo=apachespark&logoColor=000000&labelColor=000000&color=00ff00)
+![Secure Development](https://img.shields.io/badge/Secure_Development-00ff00?style=for-the-badge&logo=security&logoColor=000000&labelColor=000000&color=00ff00)
 
 </div>
 
 ```diff
-drwxr-xr-x  languages/
-+ ├── java@latest...................[████████████████████] 46.51%
-+ ├── typescript@11.86..............[████████░░░░░░░░░░░░] 11.86%
-+ ├── php@20.15%...................[████░░░░░░░░░░░░░░░░] 20.15%
-+ ├── c#@12.40%....................[███░░░░░░░░░░░░░░░░░] 12.40%
-+ ├── python@latest................[███████████░░░░░░░░░] OPERATIONAL
-+ └── html/css@3.50%...............[█░░░░░░░░░░░░░░░░░░░] 03.50%
+> cat /stats/language_distribution.log
 
-drwxr-xr-x  frameworks/
-+ ├── spring-boot..................[ACTIVE]
-+ ├── node.js......................[ACTIVE]
-+ └── express......................[STANDBY]
-
-drwxr-xr-x  tools/
-+ ├── vscode.......................[PRIMARY_IDE]
-+ ├── git..........................[VERSION_CONTROL]
-+ ├── linux........................[ARCH_LINUX] 🐧
-+ └── docker.......................[CONTAINERIZATION]
-
-drwxr-xr-x  security/
-+ └── cybersecurity_toolkit........[LOADING...]
++ Java........................[████████████████████] 46.51%
++ PHP.........................[████░░░░░░░░░░░░░░░░] 20.15%
++ TypeScript.................[███░░░░░░░░░░░░░░░░░] 11.86%
++ C#.........................[███░░░░░░░░░░░░░░░░░] 12.40%
++ HTML.......................[█░░░░░░░░░░░░░░░░░░░] 03.50%
++ Others.....................[█░░░░░░░░░░░░░░░░░░░] 05.58%
 ```
-
-<div align="center">
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
 
 ---
 
-```
-> cat /var/log/github_stats.log
-```
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> SYSTEM METRICS
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Analyzing+GitHub+Activity...;Processing+Commits+%26+Contributions...;Calculating+Code+Statistics...;Data+Compilation+Complete!)
-
-</div>
-
-```diff
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  GITHUB ANALYTICS v2.0                                                    ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-+ ║  ⭐ Total Stars Earned:        0                                          ║
-+ ║  📝 Total Commits (year):      248                                        ║
-+ ║  🔀 Pull Requests:             18                                         ║
-+ ║  🐛 Issues Opened:             0                                          ║
-+ ║  📦 Repositories:              3                                          ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+## 📊 GITHUB STATISTICS
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacAiresTh&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"/>
@@ -143,19 +129,21 @@ drwxr-xr-x  security/
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacAiresTh&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=false&border_color=00ff00"/>
 </div>
 
+```diff
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  ACTIVITY SUMMARY                                                         ║
+╠═══════════════════════════════════════════════════════════════════════════╣
++ ║  ⭐ Total Stars Earned:        0                                          ║
++ ║  📝 Total Commits (year):      248                                        ║
++ ║  🔀 Pull Requests:             18                                         ║
++ ║  🐛 Issues Opened:             0                                          ║
++ ║  📦 Repositories:              3                                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
 ---
 
-```
-> cat /proc/mission
-```
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> CURRENT OBJECTIVES
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Mission%3A+Master+Software+Architecture;Mission%3A+Deepen+Cybersecurity+Knowledge;Mission%3A+Build+Secure+Applications;Mission%3A+Contribute+to+Open+Source)
-
-</div>
+## 🎯 CURRENT OBJECTIVES
 
 ```diff
 [MISSION LOG]
@@ -164,37 +152,26 @@ drwxr-xr-x  security/
 + ├─ [███████░░░] Building secure and scalable applications
 + └─ [██████░░░░] Contributing to open-source projects
 
-[SYSTEM STATUS]
+[SECURITY STATUS]
 + >> Firewall: ACTIVE
 + >> Encryption: AES-256 ENABLED
-+ >> Neural Interface: CONNECTED
 + >> Security Protocols: OPERATIONAL
 ```
 
 ---
 
-```
-> establish_connection --contact
-```
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> ESTABLISH CONNECTION
+## 📫 CONTACT
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initiating+Contact+Protocol...;Multiple+Channels+Available;Ready+to+Connect!)
-
-</div>
 
 ```
 ┌─[isaac@matrix]─[~]
-└──╼ $ contact --list
+└──╼ $ establish_connection --protocols
 ```
 
-<div align="center">
-  
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN_PROTOCOL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000&color=000000&border_color=00ff00)](https://www.linkedin.com/in/isaac-aires-4601a728b/)
-[![GMAIL](https://img.shields.io/badge/EMAIL_PROTOCOL-EA4335?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=000000&color=000000)](mailto:isaacairesbarros@gmail.com)
-[![MATRIX](https://img.shields.io/badge/ENTER_THE_MATRIX-00ff00?style=for-the-badge&logo=matrix&logoColor=000000&labelColor=000000&color=00ff00)](https://github.com/IsaacAiresTh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000&color=000000)](https://www.linkedin.com/in/isaac-aires-4601a728b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=000000&color=000000)](mailto:isaacairesbarros@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=000000&color=000000)](https://github.com/IsaacAiresTh)
 
 </div>
 
@@ -202,13 +179,11 @@ drwxr-xr-x  security/
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=The+Matrix+is+everywhere...;It+is+all+around+us...;You+can+see+it+when+you+look+out+your+window...;Or+when+you+turn+on+your+computer...;Connection+Established+%E2%9C%93)
-
-</div>
-
 ```diff
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
++║   "The Matrix is everywhere. It is all around us..."                        ║
++║                                                                              ║
 +║   [■■■■■■■■■■] CONNECTION ESTABLISHED                                        ║
 +║   [■■■■■■■■■■] READY TO COLLABORATE                                          ║
 +║   [■■■■■■■■■■] AWAITING INPUT...                                             ║
@@ -218,19 +193,10 @@ drwxr-xr-x  security/
 
 ![Snake animation](https://raw.githubusercontent.com/IsaacAiresTh/IsaacAiresTh/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Remember...;All+I'm+offering+is+the+truth;Nothing+more...;See+you+in+the+Matrix+%F0%9F%9F%A2)
+**⚡ "Remember, all I'm offering is the truth. Nothing more." ⚡**
 
 ```
-> shutdown --message "Terminal session ended"
-[SAVING STATE...]
-[■■■■■■■■■■] 100%
-[DISCONNECTING...]
+> shutdown --message "See you in the Matrix... 🟢"
 [TERMINAL CLOSED]
 ```
 
