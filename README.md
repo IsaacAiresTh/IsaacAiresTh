@@ -218,7 +218,6 @@ isaac_aires
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Snake animation](https://raw.githubusercontent.com/IsaacAiresTh/IsaacAiresTh/output/github-contribution-grid-snake-dark.svg)
 
 **⚡ "Remember, all I'm offering is the truth. Nothing more." ⚡**
 
