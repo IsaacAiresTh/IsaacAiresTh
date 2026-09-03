@@ -51,7 +51,6 @@ A web platform for **reading and organizing digital comics**, with support for r
 
 **Stack:** `Node.js` · `React` · `PostgreSQL` · `Docker`
 
-[View Project →](https://github.com/IsaacAiresTh)
 
 ---
 
