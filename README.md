@@ -45,7 +45,7 @@ More recently, I'm exploring **indie development and micro-SaaS**, building smal
 
 > A selection of things I'm building and experimenting with.
 
-### 📚 ComicFlow
+### 📚 ComicZ
 
 A web platform for **reading and organizing digital comics**, with support for reading libraries, favorites and curated reading guides.
 
